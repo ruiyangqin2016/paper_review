@@ -7,4 +7,5 @@ OOD is relative to ID, which means in-distribution. For ID, the test dataset is 
 4. Out-of Distribution (OOD): Detect test samples with nono-overlapping labels with respect to train data. Semantic shift
 5. Outlier Detection (OD): Detect samples that are markedly different from the others in the given observation set, due to either covariate or semantic shift.
 ## Anomaly Detection & One-class Novelty Detection: Methodology
-1. Density-based methods
+1. Density-based methods (Clustering?):<br /> Assuming that anomalous test data has low likehood whereas normal data has higher likelihood under the estimated density model <br/>
+    a. 
