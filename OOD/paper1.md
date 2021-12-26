@@ -18,3 +18,4 @@ OOD is relative to ID, which means in-distribution. For ID, the test dataset is 
     a. One-class classification <br/>
     b. Positive-unlabeled learning <br/>
     c. Self-supervised learning <br/>
+## Open Set Recognition & Multi-class Novelty Detection: Methology
