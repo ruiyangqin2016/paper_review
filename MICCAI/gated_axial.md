@@ -11,3 +11,5 @@ Deep conv nerual networks到目前为止被广泛应用于医学成像。However
 >远程依赖和找局部、全局最优解有一定的关联。它们可以帮助理解。远程依赖是关于不同图像分区之间的关联。由于图像的背景是分散的，学习对应于背景的像素之间的长范围相关性可以帮助网络防止将像素误分类为掩码，减少误报。类似地，每当分割掩码较大时，了解与该掩码对应的像素之间的长期相关性也有助于做出有效的预测。
 
 理解Transformer-based network architecture: <br/>
+> 原论文：[Attention is All you Need](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) by Google <br/>
+> 参考博客：[详解Transformer](https://zhuanlan.zhihu.com/p/48508221) <br/>
