@@ -13,4 +13,4 @@ Deep conv nerual networks到目前为止被广泛应用于医学成像。However
 理解Transformer-based network architecture: <br/>
 > 原论文：[Attention is All you Need](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) by Google <br/>
 > 参考博客：[详解Transformer](https://zhuanlan.zhihu.com/p/48508221) <br/>
-> 
+> 笔记总结：[点击观看](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/Transformer.md)
