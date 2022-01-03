@@ -18,5 +18,4 @@
 3. MobileNet
 4. DenseNet
 5. ShuffleNet
-6. EfficientNet/EfficientnetV2
-7. GhostNet
+6. GhostNet
