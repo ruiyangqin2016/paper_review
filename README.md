@@ -9,3 +9,13 @@
 4. Transformer (Attention Is All You Need) [note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/Transformer.md)
 ### 3. CV
 5. ResNet (Deep Residual Learning for Image Recognition) [note](https://github.com/ruiyangqin2016/paper_review/blob/main/CNN/ResNet.md)
+
+## Pending
+1. AlexNet
+2. LeNet
+3. MobileNet
+4. DenseNet
+5. ShuffleNet
+6. EfficientNet/EfficientnetV2
+7. GhostNet
+8. RegNet
