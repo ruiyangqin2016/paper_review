@@ -1,6 +1,6 @@
 # Attention Is All You Need (Transformer)
 
-Paper: https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf <br/>
+Paper: [Click to view](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/papers/attention-is-all-you-need-Paper.pdf) <br/>
 Code: https://paperswithcode.com/paper/attention-is-all-you-need <br/>
 Blog: https://zhuanlan.zhihu.com/p/48508221
 
