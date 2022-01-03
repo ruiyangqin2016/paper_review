@@ -17,6 +17,8 @@ Different from those architectures, **Transformer**:
 
 ## 2. Model Architecture
 1. Encoder: (x<sub>1</sub>,...,x<sub>n</sub>) ---> {Encoder} ---> **z** = (z<sub>1</sub>,...,z<sub>n</sub>)
-2. Decoder:
+2. Decoder: Given **z**, decoder generates an output sequence (y<sub>1</sub>,...,y<sub>n</sub>), one element at a time.
+3. Each step, the model is **auto-regressive**.
+4. Stacked self-attention, point-wise, fully connected layers for both decoder and encoder.
 ### 2.1 Encoder 和 Decoder
 
