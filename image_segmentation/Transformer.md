@@ -16,9 +16,19 @@ Different from those architectures, **Transformer**:
 > It eschewes recurrence and relies solely on an attention mechanism. <br/>It draws global dependencies between input and output. <br/>It allows more parallelization.
 
 ## 2. Model Architecture
+<img align="right" src=https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/pic/transformer_1.jpeg width=30%>
+
 1. Encoder: (x<sub>1</sub>,...,x<sub>n</sub>) ---> {Encoder} ---> **z** = (z<sub>1</sub>,...,z<sub>n</sub>)
 2. Decoder: Given **z**, decoder generates an output sequence (y<sub>1</sub>,...,y<sub>n</sub>), one element at a time.
 3. Each step, the model is **auto-regressive**.
 4. Stacked self-attention, point-wise, fully connected layers for both decoder and encoder.
+
 ### 2.1 Encoder 和 Decoder
 
+### 2.2 Attention
+
+### 2.3 Position-wise Feed-Forward Networks
+
+### 2.4 Embeddings and Softmax
+
+### 2.5 Positional Encoding
