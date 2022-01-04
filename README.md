@@ -21,3 +21,4 @@
 4. DenseNet
 5. ShuffleNet
 6. GhostNet
+7. SIFT
