@@ -11,6 +11,8 @@
 1. **ResNet** (Deep Residual Learning for Image Recognition) [note](https://github.com/ruiyangqin2016/paper_review/blob/main/CNN/ResNet.md)
 2. **RegNet** (Designing Network Design Spaces) [note](https://github.com/ruiyangqin2016/paper_review/blob/main/CNN/RegNet.md)
 3. **EfficientNet-v2** (EfficientNetV2: Smaller Models and Faster Training) [note](https://github.com/ruiyangqin2016/paper_review/edit/main/CNN/EfficientNet_v2.md)
+4. **YOLO** (You Only Look Once) [note](https://github.com/ruiyangqin2016/paper_review/blob/main/CNN/YOLO.md)
+
 
 ## Pending
 1. AlexNet
