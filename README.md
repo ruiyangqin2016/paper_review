@@ -23,6 +23,7 @@
     - **MultiResUNet**: Rethinking the U-Net Architecture for Multimodal Biomedical Image Segmentation [note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/multiResNet.md)
   - 2020
     - **U<sup>2</sup>Net**: Going Deeper with Nested U-Structure for Salient Object Detection [note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/2020/U2Net.md)
+    - **UNet3+**: A Full-Scale Connected UNet for Medical Image Segmentation [note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/2020/UNet3Plus.md)
   - 2021
     - **Medical Transformer**: Gated Axial-Attention for Medical Image Segmentation [note](https://github.com/ruiyangqin2016/paper_review/blob/main/MICCAI/gated_axial.md)
 
