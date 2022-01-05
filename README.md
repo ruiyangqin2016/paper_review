@@ -6,26 +6,26 @@
 ## Paper lists
 ### 1. Medical Image
   - 2015
-    - **U-Net**: Convolutional Networks for Biomedical Image Segmentation (MICCIA) [note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/UNet.md)
+    - **U-Net**: Convolutional Networks for Biomedical Image Segmentation (MICCIA) [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/UNet.md)]
   - 2016
-    - **V-Net**: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation [note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/2016/VNet.md) 
-    - **3D U-Net**: Learning Dense Volumetric Segmentation from Sparse Annotation [note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/2016/3DUNet.md)
+    - **V-Net**: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/2016/VNet.md)]
+    - **3D U-Net**: Learning Dense Volumetric Segmentation from Sparse Annotation [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/2016/3DUNet.md)]
   - 2017
-    - **H-DenseUNet**: Hybrid Densely Connected UNet for Liver and Tumor Segmentation from CT Volumes [note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/2017/H-DenseUNet.md)
-    - **GP-Unet**: Lesion Detection from Weak Labels with a 3D Regression Network (MICCAI) [note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/2017/GP-UNet.md)
+    - **H-DenseUNet**: Hybrid Densely Connected UNet for Liver and Tumor Segmentation from CT Volumes [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/2017/H-DenseUNet.md)]
+    - **GP-Unet**: Lesion Detection from Weak Labels with a 3D Regression Network (MICCAI) [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/2017/GP-UNet.md)]
   - 2018
-    - **UNet++**: A Nested U-Net Architecture for Medical Image Segmentation (MICCAI) [note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/unet%2B%2B.md)
-    - **nnU-Net**: Self-adapting Framework or U-Net-Based Medical Image Segmentation [note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/nnU-Net.md)
-    - **Attention U-Net**: Learning Where to Look for the Pancreas [note](https://github.com/ruiyangqin2016/paper_review/edit/main/image_segmentation/attention_unet.md)
-    - **R2U-Net**: Recurrent Residual Convolutional Neural Network based on U-Net [note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/R2U-Net.md)
-    - **TernausNet**: U-Net with VGG11 Encoder Pre-Trained on ImageNet for Image Segmentation [note](https://github.com/ruiyangqin2016/paper_review/edit/main/image_segmentation/TernausNet.md)
+    - **UNet++**: A Nested U-Net Architecture for Medical Image Segmentation (MICCAI) [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/unet%2B%2B.md)]
+    - **nnU-Net**: Self-adapting Framework or U-Net-Based Medical Image Segmentation [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/nnU-Net.md)]
+    - **Attention U-Net**: Learning Where to Look for the Pancreas [[note](https://github.com/ruiyangqin2016/paper_review/edit/main/image_segmentation/attention_unet.md)]
+    - **R2U-Net**: Recurrent Residual Convolutional Neural Network based on U-Net [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/R2U-Net.md)]
+    - **TernausNet**: U-Net with VGG11 Encoder Pre-Trained on ImageNet for Image Segmentation [[note](https://github.com/ruiyangqin2016/paper_review/edit/main/image_segmentation/TernausNet.md)]
   - 2019
-    - **MultiResUNet**: Rethinking the U-Net Architecture for Multimodal Biomedical Image Segmentation [note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/multiResNet.md)
+    - **MultiResUNet**: Rethinking the U-Net Architecture for Multimodal Biomedical Image Segmentation [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/multiResNet.md)]
   - 2020
-    - **U<sup>2</sup>Net**: Going Deeper with Nested U-Structure for Salient Object Detection [note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/2020/U2Net.md)
-    - **UNet3+**: A Full-Scale Connected UNet for Medical Image Segmentation [note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/2020/UNet3Plus.md)
+    - **U<sup>2</sup>Net**: Going Deeper with Nested U-Structure for Salient Object Detection [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/2020/U2Net.md)]
+    - **UNet3+**: A Full-Scale Connected UNet for Medical Image Segmentation [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/2020/UNet3Plus.md)]
   - 2021
-    - **Medical Transformer**: Gated Axial-Attention for Medical Image Segmentation [note](https://github.com/ruiyangqin2016/paper_review/blob/main/MICCAI/gated_axial.md)
+    - **Medical Transformer**: Gated Axial-Attention for Medical Image Segmentation [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/MICCAI/gated_axial.md)]
 
 
 ### 2. NLP
