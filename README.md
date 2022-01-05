@@ -25,6 +25,7 @@
 ### 4. YOLO
 1. **YOLO** (You Only Look Once) [note](https://github.com/ruiyangqin2016/paper_review/blob/main/CNN/YOLO.md)
 2. **YOLO v3** [note](https://github.com/ruiyangqin2016/paper_review/blob/main/CNN/YOLOv3.md)
+3. **YOLO v5** [note](https://github.com/ruiyangqin2016/paper_review/blob/main/CNN/YOLOv5.md)
 
 ## Marked blogs
 1. [U-Net family](https://zhuanlan.zhihu.com/p/339934172)
