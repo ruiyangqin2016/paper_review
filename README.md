@@ -9,6 +9,8 @@
     - **U-Net**: Convolutional Networks for Biomedical Image Segmentation (MICCIA) [note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/UNet.md)
   - 2016
     - **V-Net**: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation [note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/2016/VNet.md) 
+    - **3D U-Net**: Learning Dense Volumetric Segmentation from Sparse Annotation [note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/2016/3DUNet.md)
+  - 2017
 
 (On work...)
 1. **U-Net**: Convolutional Networks for Biomedical Image Segmentation [note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/UNet.md)
