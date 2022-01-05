@@ -1,6 +1,7 @@
 ## Good websites
 1. [Papers with code](https://paperswithcode.com/)
 2. [UNet-family](https://github.com/ShawnBIT/UNet-family)
+3. [CV papers collection](https://painterdrown.github.io/cv/)
 
 ## Paper lists
 ### 1. Medical Image
