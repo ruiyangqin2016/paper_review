@@ -14,16 +14,16 @@
     - **H-DenseUNet**: Hybrid Densely Connected UNet for Liver and Tumor Segmentation from CT Volumes [note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/2017/H-DenseUNet.md)
     - **GP-Unet**: Lesion Detection from Weak Labels with a 3D Regression Network (MICCAI) [note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/2017/GP-UNet.md)
   - 2018
+    - **UNet++**: A Nested U-Net Architecture for Medical Image Segmentation (MICCAI) [note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/unet%2B%2B.md)
+    - **nnU-Net**: Self-adapting Framework or U-Net-Based Medical Image Segmentation [note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/nnU-Net.md)
+    - **Attention U-Net**: Learning Where to Look for the Pancreas [note](https://github.com/ruiyangqin2016/paper_review/edit/main/image_segmentation/attention_unet.md)
+    - **R2U-Net**: Recurrent Residual Convolutional Neural Network based on U-Net [note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/R2U-Net.md)
+  - 2019
+    - **MultiResUNet**: Rethinking the U-Net Architecture for Multimodal Biomedical Image Segmentation [note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/multiResNet.md)
 
 (On work...)
-1. **U-Net**: Convolutional Networks for Biomedical Image Segmentation [note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/UNet.md)
-2. **nnU-Net**: Self-adapting Framework or U-Net-Based Medical Image Segmentation [note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/nnU-Net.md)
 3. **Medical Transformer**: Gated Axial-Attention for Medical Image Segmentation [note](https://github.com/ruiyangqin2016/paper_review/blob/main/MICCAI/gated_axial.md)
-4. **Attention U-Net** [note](https://github.com/ruiyangqin2016/paper_review/edit/main/image_segmentation/attention_unet.md)
-5. **UNet++** [note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/unet%2B%2B.md)
-6. **MultiResUNet** [note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/multiResNet.md)
 7. **TernausNet** [note](https://github.com/ruiyangqin2016/paper_review/edit/main/image_segmentation/TernausNet.md)
-8. **R2U-Net** [note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/R2U-Net.md)
 
 ### 2. NLP
 1. **Transformer** (Attention Is All You Need) [note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/Transformer.md)
