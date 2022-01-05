@@ -10,6 +10,7 @@
 4. **Attention U-Net** [note](https://github.com/ruiyangqin2016/paper_review/edit/main/image_segmentation/attention_unet.md)
 5. **UNet++** [note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/unet%2B%2B.md)
 6. **MultiResUNet** [note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/multiResNet.md)
+7. **TernausNet** [note](https://github.com/ruiyangqin2016/paper_review/edit/main/image_segmentation/TernausNet.md)
 
 ### 2. NLP
 1. **Transformer** (Attention Is All You Need) [note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/Transformer.md)
