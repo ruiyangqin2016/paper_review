@@ -20,6 +20,7 @@
 2. **RegNet** (Designing Network Design Spaces) [note](https://github.com/ruiyangqin2016/paper_review/blob/main/CNN/RegNet.md)
 3. **EfficientNet-v2** (EfficientNetV2: Smaller Models and Faster Training) [note](https://github.com/ruiyangqin2016/paper_review/edit/main/CNN/EfficientNet_v2.md)
 4. **YOLO** (You Only Look Once) [note](https://github.com/ruiyangqin2016/paper_review/blob/main/CNN/YOLO.md)
+5. **DenseNet** [note](https://github.com/ruiyangqin2016/paper_review/blob/main/CNN/DenseNet.md)
 
 ## Marked blogs
 1. [U-Net family](https://zhuanlan.zhihu.com/p/339934172)
@@ -28,7 +29,6 @@
 1. AlexNet
 2. LeNet
 3. MobileNet
-4. DenseNet
 5. ShuffleNet
 6. GhostNet
 7. SIFT
