@@ -18,12 +18,12 @@
     - **nnU-Net**: Self-adapting Framework or U-Net-Based Medical Image Segmentation [note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/nnU-Net.md)
     - **Attention U-Net**: Learning Where to Look for the Pancreas [note](https://github.com/ruiyangqin2016/paper_review/edit/main/image_segmentation/attention_unet.md)
     - **R2U-Net**: Recurrent Residual Convolutional Neural Network based on U-Net [note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/R2U-Net.md)
+    - **TernausNet** [note](https://github.com/ruiyangqin2016/paper_review/edit/main/image_segmentation/TernausNet.md)
   - 2019
     - **MultiResUNet**: Rethinking the U-Net Architecture for Multimodal Biomedical Image Segmentation [note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/multiResNet.md)
+  - 2021
+    - **Medical Transformer**: Gated Axial-Attention for Medical Image Segmentation [note](https://github.com/ruiyangqin2016/paper_review/blob/main/MICCAI/gated_axial.md)
 
-(On work...)
-3. **Medical Transformer**: Gated Axial-Attention for Medical Image Segmentation [note](https://github.com/ruiyangqin2016/paper_review/blob/main/MICCAI/gated_axial.md)
-7. **TernausNet** [note](https://github.com/ruiyangqin2016/paper_review/edit/main/image_segmentation/TernausNet.md)
 
 ### 2. NLP
 1. **Transformer** (Attention Is All You Need) [note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/Transformer.md)
