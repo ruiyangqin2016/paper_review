@@ -22,6 +22,7 @@
 3. **EfficientNet-v2** (EfficientNetV2: Smaller Models and Faster Training) [note](https://github.com/ruiyangqin2016/paper_review/edit/main/CNN/EfficientNet_v2.md)
 4. **YOLO** (You Only Look Once) [note](https://github.com/ruiyangqin2016/paper_review/blob/main/CNN/YOLO.md)
 5. **DenseNet** [note](https://github.com/ruiyangqin2016/paper_review/blob/main/CNN/DenseNet.md)
+6. **YOLO v3** [note](https://github.com/ruiyangqin2016/paper_review/blob/main/CNN/YOLOv3.md)
 
 ## Marked blogs
 1. [U-Net family](https://zhuanlan.zhihu.com/p/339934172)
