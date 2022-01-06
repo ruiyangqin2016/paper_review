@@ -21,7 +21,7 @@
   - 2018
     - **UNet++**: A Nested U-Net Architecture for Medical Image Segmentation (MICCAI) [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/unet%2B%2B.md)]
     - **nnU-Net**: Self-adapting Framework or U-Net-Based Medical Image Segmentation [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/nnU-Net.md)]
-    - **Attention U-Net**: Learning Where to Look for the Pancreas [[note](https://github.com/ruiyangqin2016/paper_review/edit/main/image_segmentation/attention_unet.md)]
+    - **Attention U-Net**: Learning Where to Look for the Pancreas [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/attention_unet.md)]
     - **R2U-Net**: Recurrent Residual Convolutional Neural Network based on U-Net [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/R2U-Net.md)]
     - **TernausNet**: U-Net with VGG11 Encoder Pre-Trained on ImageNet for Image Segmentation [[note](https://github.com/ruiyangqin2016/paper_review/edit/main/image_segmentation/TernausNet.md)]
   - 2019
