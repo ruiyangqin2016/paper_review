@@ -36,6 +36,7 @@
 ### 2. NLP
 1. **Transformer** (Attention Is All You Need) [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/Transformer.md)]
 2. **LSTM**: Long Short-term Memory [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/RNN/lstm.md)]
+3. **GRU** [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/RNN/GRU.md)]
 
 ### 3. CV
 1. **ResNet** (Deep Residual Learning for Image Recognition) [note](https://github.com/ruiyangqin2016/paper_review/blob/main/CNN/ResNet.md)
