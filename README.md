@@ -22,6 +22,7 @@
   - 2017
     - **H-DenseUNet**: Hybrid Densely Connected UNet for Liver and Tumor Segmentation from CT Volumes [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/2017/H-DenseUNet.md)]
     - **GP-Unet**: Lesion Detection from Weak Labels with a 3D Regression Network (MICCAI) [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/2017/GP-UNet.md)]
+    - **DeepLab** Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/2017/DeepLab.md)]
   - 2018
     - **UNet++**: A Nested U-Net Architecture for Medical Image Segmentation (MICCAI) [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/unet%2B%2B.md)]
     - **nnU-Net**: Self-adapting Framework or U-Net-Based Medical Image Segmentation [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/nnU-Net.md)]
