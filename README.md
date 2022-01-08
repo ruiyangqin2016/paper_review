@@ -5,10 +5,8 @@
 
 ## Paper lists
 ### 1. Medical Image
-  <img src=https://github.com/ruiyangqin2016/paper_review/blob/main/image/image_1.jpg width=85%>
-  
   #### 1.1 Study notes
-  
+  [Note1](https://github.com/ruiyangqin2016/paper_review/blob/main/Study_notes/main.md)
   #### 1.2 Model papers by years
   - 2012
     - **DNN**: Deep Neural Networks Segment Neuronal Membranes [[Paper](https://people.idsia.ch/~juergen/nips2012.pdf)]
