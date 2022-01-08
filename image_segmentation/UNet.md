@@ -10,3 +10,9 @@ Zhihu: https://zhuanlan.zhihu.com/p/150579454 <br/>
   - Encoder-Decoder结构
 ## 2. U-net 网络结构解析
   - U-net architecture: <img src=https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/pic/unet_1.png width=60%>
+  - 结构详解：
+    - 框：feature map
+    - 蓝色箭头：3x3卷积，用于特征提取
+    - 灰色箭头：skip-connection，用于特征融合
+    - 红色箭头：pooling(池化)，用于降低维度
+    - 
