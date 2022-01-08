@@ -15,7 +15,8 @@ Zhihu: https://zhuanlan.zhihu.com/p/100014604 <br/>
     - 2D and 3D vanilla U-Net
 ## 2. nnU-Net结构详解 
   - Pre-processing:
-    - 
+    - Cropping: 只在非零区域crop，减少计算消耗
+    - Resample: 
   - What to train：
     - 2D U-Net
     - 3D full resolution U-Net
@@ -23,3 +24,4 @@ Zhihu: https://zhuanlan.zhihu.com/p/100014604 <br/>
       - 3D low resolution U-Net
       - 3D full resolution U-Net
   - Identifying the best U-Net configuration
+  - Run inference
