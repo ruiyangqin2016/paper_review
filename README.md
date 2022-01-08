@@ -11,6 +11,7 @@
   
   #### 1.2 Model papers by years
   - 2015
+    - **FCN**: Fully Convolutional Networks for Semantic Segmentation [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/CNN/FCN.md)]
     - **U-Net**: Convolutional Networks for Biomedical Image Segmentation (MICCIA) [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/UNet.md)]
   - 2016
     - **V-Net**: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/2016/VNet.md)]
