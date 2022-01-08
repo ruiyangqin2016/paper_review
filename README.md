@@ -56,7 +56,7 @@
 2. **YOLO v3** [note](https://github.com/ruiyangqin2016/paper_review/blob/main/CNN/YOLOv3.md)
 
 ## Pending
-1. AlexNet [[Paper(https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)]]
+1. AlexNet [[Paper](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)]
 2. LeNet
 3. MobileNet
 5. ShuffleNet
