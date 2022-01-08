@@ -50,13 +50,13 @@
 2. **RegNet** (Designing Network Design Spaces) [note](https://github.com/ruiyangqin2016/paper_review/blob/main/CNN/RegNet.md)
 3. **EfficientNet-v2** (EfficientNetV2: Smaller Models and Faster Training) [note](https://github.com/ruiyangqin2016/paper_review/edit/main/CNN/EfficientNet_v2.md)
 4. **DenseNet** [note](https://github.com/ruiyangqin2016/paper_review/blob/main/CNN/DenseNet.md)
+5. **AlexNet**: ImageNet Classification with Deep Convolutional Neural Networks [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/CNN/alexnet.md)]
 
 ### 4. YOLO
 1. **YOLO** (You Only Look Once) [note](https://github.com/ruiyangqin2016/paper_review/blob/main/CNN/YOLO.md)
 2. **YOLO v3** [note](https://github.com/ruiyangqin2016/paper_review/blob/main/CNN/YOLOv3.md)
 
 ## Pending
-1. AlexNet [[Paper](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)]
 2. LeNet
 3. MobileNet
 5. ShuffleNet
