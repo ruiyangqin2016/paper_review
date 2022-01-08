@@ -33,7 +33,7 @@
     - **U<sup>2</sup>Net**: Going Deeper with Nested U-Structure for Salient Object Detection [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/2020/U2Net.md)]
     - **UNet3+**: A Full-Scale Connected UNet for Medical Image Segmentation [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/2020/UNet3Plus.md)]
   - 2021
-    - **Medical Transformer**: Gated Axial-Attention for Medical Image Segmentation [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/2021/gated_axial.md)]
+    - **Medical Transformer**: Gated Axial-Attention for Medical Image Segmentation [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/2021/gated_axial.md)]
     - **TransUNet**: Transformers Make Strong Encoders for Medical Image Segmentation [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/2021/TransUNet.md)]
     - **Swin-Unet**: Unet-like Pure Transformer for Medical Image Segmentation [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/2021/Swin-Unet.md)]
 
