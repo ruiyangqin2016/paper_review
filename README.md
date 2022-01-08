@@ -39,7 +39,6 @@
     - **TransUNet**: Transformers Make Strong Encoders for Medical Image Segmentation [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/2021/TransUNet.md)]
     - **Swin-Unet**: Unet-like Pure Transformer for Medical Image Segmentation [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/2021/Swin-Unet.md)]
 
-
 ### 2. NLP
 1. **Transformer** (Attention Is All You Need) [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/Transformer.md)]
 2. **LSTM**: Long Short-term Memory [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/RNN/lstm.md)]
@@ -51,6 +50,8 @@
 3. **EfficientNet-v2** (EfficientNetV2: Smaller Models and Faster Training) [note](https://github.com/ruiyangqin2016/paper_review/edit/main/CNN/EfficientNet_v2.md)
 4. **DenseNet** [note](https://github.com/ruiyangqin2016/paper_review/blob/main/CNN/DenseNet.md)
 5. **AlexNet**: ImageNet Classification with Deep Convolutional Neural Networks [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/CNN/alexnet.md)]
+6. **VggNet**: Very Deep Convolutional Networks for Large-Scale Image Recognition [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/CNN/VGGnet.md)]
+7. **GoogleNet**: Going Deeper with Convolutions [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/CNN/googleNet.md)]
 
 ### 4. YOLO
 1. **YOLO** (You Only Look Once) [note](https://github.com/ruiyangqin2016/paper_review/blob/main/CNN/YOLO.md)
