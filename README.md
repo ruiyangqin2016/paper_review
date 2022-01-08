@@ -34,6 +34,8 @@
     - **UNet3+**: A Full-Scale Connected UNet for Medical Image Segmentation [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/2020/UNet3Plus.md)]
   - 2021
     - **Medical Transformer**: Gated Axial-Attention for Medical Image Segmentation [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/MICCAI/gated_axial.md)]
+    - **TransUNet**: Transformers Make Strong Encoders for Medical Image Segmentation [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/2021/TransUNet.md)]
+    - **Swin-Unet**: Unet-like Pure Transformer for Medical Image Segmentation [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/2021/Swin-Unet.md)]
 
 
 ### 2. NLP
