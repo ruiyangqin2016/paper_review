@@ -8,7 +8,7 @@
   #### 1.1 Study notes
   [Note1](https://github.com/ruiyangqin2016/paper_review/blob/main/Study_notes/main.md) <br/>
   [Pending list](https://github.com/ruiyangqin2016/paper_review/blob/main/Study_notes/Pending_list.md)
-  #### 1.2 Model papers by years
+  #### 1.2 Papers by year
   - 2012
     - **DNN**: Deep Neural Networks Segment Neuronal Membranes [[Paper](https://people.idsia.ch/~juergen/nips2012.pdf)]
     
@@ -45,19 +45,26 @@
 3. **GRU** [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/RNN/GRU.md)]
 
 ### 3. CV
-1. **ResNet** (Deep Residual Learning for Image Recognition) [note](https://github.com/ruiyangqin2016/paper_review/blob/main/CNN/ResNet.md)
-2. **RegNet** (Designing Network Design Spaces) [note](https://github.com/ruiyangqin2016/paper_review/blob/main/CNN/RegNet.md)
-3. **EfficientNet-v2** (EfficientNetV2: Smaller Models and Faster Training) [note](https://github.com/ruiyangqin2016/paper_review/edit/main/CNN/EfficientNet_v2.md)
-4. **DenseNet** [note](https://github.com/ruiyangqin2016/paper_review/blob/main/CNN/DenseNet.md)
-5. **AlexNet**: ImageNet Classification with Deep Convolutional Neural Networks [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/CNN/alexnet.md)]
-6. **VggNet**: Very Deep Convolutional Networks for Large-Scale Image Recognition [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/CNN/VGGnet.md)]
-7. **GoogleNet**: Going Deeper with Convolutions [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/CNN/googleNet.md)]
-
-### 4. YOLO
-1. **YOLO** (You Only Look Once) [note](https://github.com/ruiyangqin2016/paper_review/blob/main/CNN/YOLO.md)
-2. **YOLO v3** [note](https://github.com/ruiyangqin2016/paper_review/blob/main/CNN/YOLOv3.md)
+  #### 3.1 Study notes
+  
+  #### 3.2 Papers by year
+  - 2012:
+    - **AlexNet**: ImageNet Classification with Deep Convolutional Neural Networks [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/CNN/alexnet.md)]
+  - 2014:
+    - **DenseNet**: Implementing efficient convnet descriptor pyramids [note](https://github.com/ruiyangqin2016/paper_review/blob/main/CNN/DenseNet.md)
+    - **VggNet**: Very Deep Convolutional Networks for Large-Scale Image Recognition [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/CNN/VGGnet.md)]
+  - 2015:
+    - **GoogleNet**: Going Deeper with Convolutions [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/CNN/googleNet.md)]
+  - 2016:
+    - **ResNet** (Deep Residual Learning for Image Recognition) [note](https://github.com/ruiyangqin2016/paper_review/blob/main/CNN/ResNet.md)
+  - 2020:
+    - **RegNet** (Designing Network Design Spaces) [note](https://github.com/ruiyangqin2016/paper_review/blob/main/CNN/RegNet.md)
+  - 2021:
+    - **EfficientNet-v2** (EfficientNetV2: Smaller Models and Faster Training) [note](https://github.com/ruiyangqin2016/paper_review/edit/main/CNN/EfficientNet_v2.md)
 
 ## Pending
+1. **YOLO**: [note](https://github.com/ruiyangqin2016/paper_review/blob/main/CNN/YOLO.md)
+2. **YOLO v3**: [note](https://github.com/ruiyangqin2016/paper_review/blob/main/CNN/YOLOv3.md)
 2. LeNet
 3. MobileNet
 5. ShuffleNet
