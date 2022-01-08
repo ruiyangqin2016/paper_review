@@ -6,7 +6,7 @@
 ## Paper lists
 ### 1. Medical Image
   #### 1.1 Study notes
-  [Note1](https://github.com/ruiyangqin2016/paper_review/blob/main/Study_notes/main.md)
+  [Note1](https://github.com/ruiyangqin2016/paper_review/blob/main/Study_notes/main.md) <br/>
   [Pending list](https://github.com/ruiyangqin2016/paper_review/blob/main/Study_notes/Pending_list.md)
   #### 1.2 Model papers by years
   - 2012
