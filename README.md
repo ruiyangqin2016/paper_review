@@ -68,7 +68,7 @@
     - 2020:
       - **RegNet**: Designing Network Design Spaces [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/CV/2020/RegNet.md)]
     - 2021:
-      - **EfficientNet-v2**: Smaller Models and Faster Training [[note](https://github.com/ruiyangqin2016/paper_review/edit/main/CV/2021/EfficientNet_v2.md)]
+      - **EfficientNet-v2**: Smaller Models and Faster Training [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/CV/2021/EfficientNet_v2.md)]
       - **VIT transformer**: An Image is Worth 16x16 Words [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/CV/2021/vit.md)]
 ### 4. Supplements
   - 4.1 Study notes
