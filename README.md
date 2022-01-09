@@ -51,6 +51,7 @@
       - **LSTM**: Long Short-term Memory [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/nlp/1997/lstm.md)]
     - 2014:
       - **GRU**: Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/nlp/2014/GRU.md)]
+      - **Gated Recurrent**: Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/nlp/2014/1412_3555.md)]
     - 2015:
       - **Memory Net**: End-To-End Memory Networks [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/nlp/2015/memoryNet.md)]
     - 2016:
