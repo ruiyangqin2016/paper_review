@@ -40,10 +40,14 @@
 ### 2. NLP
   - 2.1 Study notes
   - 2.2 Papers by year
+    - 1997:
+      - **LSTM**: Long Short-term Memory [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/RNN/lstm.md)]
+    - 2014:
+      - **GRU**: Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/RNN/GRU.md)]
     - 2016:
       - **ByteNet**: Neural Machine Translation in Linear Time [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/nlp/2016/byteNet.md)]
-1. **GRU** [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/RNN/GRU.md)]
-2. **LSTM**: Long Short-term Memory [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/RNN/lstm.md)]
+    - 2017:
+      - **Seq2Seq**: Convolutional Sequence to Sequence Learning [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/nlp/2017/seq2seq.md)] 
 
 ### 3. CV
   - 3.1 Study notes
