@@ -52,13 +52,14 @@
     - 2015:
       - **GoogleNet**: Going Deeper with Convolutions [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/CNN/googleNet.md)]
     - 2016:
-      - **ResNet** (Deep Residual Learning for Image Recognition) [note](https://github.com/ruiyangqin2016/paper_review/blob/main/CNN/ResNet.md)
+      - **ResNet**: Deep Residual Learning for Image Recognition [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/CNN/ResNet.md)]
     - 2017:
-      - **Transformer**: (Attention Is All You Need) [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/Transformer.md)]
+      - **Transformer**: Attention Is All You Need [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/Transformer.md)]
     - 2020:
-      - **RegNet** (Designing Network Design Spaces) [note](https://github.com/ruiyangqin2016/paper_review/blob/main/CNN/RegNet.md)
+      - **RegNet**: Designing Network Design Spaces [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/CNN/RegNet.md)]
     - 2021:
-      - **EfficientNet-v2** (EfficientNetV2: Smaller Models and Faster Training) [note](https://github.com/ruiyangqin2016/paper_review/edit/main/CNN/EfficientNet_v2.md)
+      - **EfficientNet-v2**: Smaller Models and Faster Training [[note](https://github.com/ruiyangqin2016/paper_review/edit/main/CNN/EfficientNet_v2.md)]
+      - **VIT transformer**: An Image is Worth 16x16 Words [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/CV/2021/vit.md)]
 
 ## Pending
 1. **YOLO**: [note](https://github.com/ruiyangqin2016/paper_review/blob/main/CNN/YOLO.md)
