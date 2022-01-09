@@ -54,6 +54,7 @@
     - 2015:
       - **Memory Net**: End-To-End Memory Networks [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/nlp/2015/memoryNet.md)]
     - 2016:
+      - **Additive Attention**: Neural Machine Translation by Jointly Learning to Align and Translate [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/nlp/2016/1409_0473.md)]
       - **ByteNet**: Neural Machine Translation in Linear Time [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/nlp/2016/byteNet.md)]
     - 2017:
       - **Seq2Seq**: Convolutional Sequence to Sequence Learning [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/nlp/2017/seq2seq.md)] 
