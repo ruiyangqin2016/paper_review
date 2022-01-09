@@ -55,20 +55,20 @@
   - 3.1 Study notes
   - 3.2 Papers by year
     - 2012:
-      - **AlexNet***: ImageNet Classification with Deep Convolutional Neural Networks [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/CNN/alexnet.md)]
+      - **AlexNet***: ImageNet Classification with Deep Convolutional Neural Networks [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/CV/2012/alexnet.md)]
     - 2014:
-      - **DenseNet**: Implementing efficient convnet descriptor pyramids [note](https://github.com/ruiyangqin2016/paper_review/blob/main/CNN/DenseNet.md)
-      - **VggNet**: Very Deep Convolutional Networks for Large-Scale Image Recognition [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/CNN/VGGnet.md)]
+      - **DenseNet**: Implementing efficient convnet descriptor pyramids [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/CV/2014/DenseNet.md)]
+      - **VggNet**: Very Deep Convolutional Networks for Large-Scale Image Recognition [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/CV/2014/VGGnet.md)]
     - 2015:
-      - **GoogleNet**: Going Deeper with Convolutions [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/CNN/googleNet.md)]
+      - **GoogleNet**: Going Deeper with Convolutions [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/CV/2015/googleNet.md)]
     - 2016:
-      - **ResNet**: Deep Residual Learning for Image Recognition [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/CNN/ResNet.md)]
+      - **ResNet**: Deep Residual Learning for Image Recognition [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/CV/2016/ResNet.md)]
     - 2017:
-      - **Transformer**: Attention Is All You Need [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/Transformer.md)]
+      - **Transformer**: Attention Is All You Need [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/CV/2017/Transformer.md)]
     - 2020:
-      - **RegNet**: Designing Network Design Spaces [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/CNN/RegNet.md)]
+      - **RegNet**: Designing Network Design Spaces [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/CV/2020/RegNet.md)]
     - 2021:
-      - **EfficientNet-v2**: Smaller Models and Faster Training [[note](https://github.com/ruiyangqin2016/paper_review/edit/main/CNN/EfficientNet_v2.md)]
+      - **EfficientNet-v2**: Smaller Models and Faster Training [[note](https://github.com/ruiyangqin2016/paper_review/edit/main/CV/2021/EfficientNet_v2.md)]
       - **VIT transformer**: An Image is Worth 16x16 Words [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/CV/2021/vit.md)]
 ### 4. Supplements
   - 4.1 Study notes
