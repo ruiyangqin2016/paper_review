@@ -70,6 +70,15 @@
     - 2021:
       - **EfficientNet-v2**: Smaller Models and Faster Training [[note](https://github.com/ruiyangqin2016/paper_review/edit/main/CNN/EfficientNet_v2.md)]
       - **VIT transformer**: An Image is Worth 16x16 Words [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/CV/2021/vit.md)]
+### 4. Supplements
+  - 4.1 Study notes
+  - 4.1 Papers by year
+    - 2015:
+      - **BatchNorm**: Accelerating Deep Network Training by Reducing Internal Covariate Shift [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/supplements/2015/batchNorm.md)]
+    - 2016:
+      - **LayerNorm**: Layer Normalization [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/supplements/2016/layerNorm.md)]
+    - 2017:
+      - **InsNorm**: The Missing Ingredient for Fast Stylization [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/supplements/2017/instNorm.md)]
 
 ## Pending
 1. **YOLO**: [note](https://github.com/ruiyangqin2016/paper_review/blob/main/CNN/YOLO.md)
