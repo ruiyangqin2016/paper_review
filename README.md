@@ -4,6 +4,11 @@
 3. [CV papers collection](https://painterdrown.github.io/cv/)
 
 ## Paper lists
+### 0. Menu
+  - [Medical Image](https://github.com/ruiyangqin2016/paper_review#1-medical-image)
+  - [NLP](https://github.com/ruiyangqin2016/paper_review#2-nlp)
+  - [CV](https://github.com/ruiyangqin2016/paper_review#3-cv)
+  - [Supplements](https://github.com/ruiyangqin2016/paper_review#4-supplements)
 ### 1. Medical Image
   - 1.1 Study notes
     - [Note1](https://github.com/ruiyangqin2016/paper_review/blob/main/Study_notes/main.md) <br/>
