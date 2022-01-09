@@ -9,7 +9,8 @@
   - [NLP](https://github.com/ruiyangqin2016/paper_review#2-nlp)
   - [CV](https://github.com/ruiyangqin2016/paper_review#3-cv)
   - [Supplements](https://github.com/ruiyangqin2016/paper_review#4-supplements)
-### 1. Medical Image
+### 1. Medical Image 
+  - 1.0 [menu](https://github.com/ruiyangqin2016/paper_review#0-menu)
   - 1.1 Study notes
     - [Note1](https://github.com/ruiyangqin2016/paper_review/blob/main/Study_notes/main.md) <br/>
     - [Pending list](https://github.com/ruiyangqin2016/paper_review/blob/main/Study_notes/Pending_list.md)
@@ -42,7 +43,8 @@
       - **TransUNet**: Transformers Make Strong Encoders for Medical Image Segmentation [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/2021/TransUNet.md)]
       - **Swin-Unet**: Unet-like Pure Transformer for Medical Image Segmentation [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/2021/Swin-Unet.md)]
 
-### 2. NLP
+### 2. NLP 
+  - 2.0 [menu](https://github.com/ruiyangqin2016/paper_review#0-menu)
   - 2.1 Study notes
   - 2.2 Papers by year
     - 1997:
@@ -56,7 +58,8 @@
     - 2017:
       - **Seq2Seq**: Convolutional Sequence to Sequence Learning [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/nlp/2017/seq2seq.md)] 
 
-### 3. CV
+### 3. CV 
+  - 3.0 [menu](https://github.com/ruiyangqin2016/paper_review#0-menu)
   - 3.1 Study notes
   - 3.2 Papers by year
     - 2012:
@@ -75,7 +78,8 @@
     - 2021:
       - **EfficientNet-v2**: Smaller Models and Faster Training [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/CV/2021/EfficientNet_v2.md)]
       - **VIT transformer**: An Image is Worth 16x16 Words [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/CV/2021/vit.md)]
-### 4. Supplements
+### 4. Supplements 
+  - 4.0 [menu](https://github.com/ruiyangqin2016/paper_review#0-menu)
   - 4.1 Study notes
   - 4.1 Papers by year
     - 2015:
