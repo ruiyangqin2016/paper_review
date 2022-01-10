@@ -84,6 +84,8 @@
   - 4.0 [menu](https://github.com/ruiyangqin2016/paper_review#0-menu)
   - 4.1 Study notes
   - 4.1 Papers by year
+    - 2001:
+      - **Dependency**: Learn dependencies between distant positions [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/supplements/2001/dependencies.md)]
     - 2015:
       - **BatchNorm**: Accelerating Deep Network Training by Reducing Internal Covariate Shift [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/supplements/2015/batchNorm.md)]
     - 2016:
