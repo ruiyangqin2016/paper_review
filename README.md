@@ -58,7 +58,9 @@
       - **Additive Attention**: Neural Machine Translation by Jointly Learning to Align and Translate [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/nlp/2016/1409_0473.md)]
       - **ByteNet**: Neural Machine Translation in Linear Time [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/nlp/2016/byteNet.md)]
     - 2017:
-      - **Seq2Seq**: Convolutional Sequence to Sequence Learning [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/nlp/2017/seq2seq.md)] 
+      - **Seq2Seq**: Convolutional Sequence to Sequence Learning [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/nlp/2017/seq2seq.md)]
+    - 2019:
+      - **BERT**: Pre-training of Deep Bidirectional Transformers for Language Understanding [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/nlp/2019/bert.md)]
 
 ### 3. CV 
   - 3.0 [menu](https://github.com/ruiyangqin2016/paper_review#0-menu)
