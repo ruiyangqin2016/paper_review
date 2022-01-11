@@ -3,6 +3,7 @@
 Paper: [Click to view](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) <br/>
 Code: https://github.com/tensorflow/tensor2tensor <br/>
 Blog: https://zhuanlan.zhihu.com/p/48508221
+李沐推荐：[对Attention在Transformer里面作用的研究](https://arxiv.org/pdf/2103.03404.pdf)
 
 ## 1. Abstract
 Traditional models are based on encoder-decoder structure. The model called **Transformer** is solely based on attention mechanism, dispensing with recurrence and convolutions entirely. 更详细的说，Transformer由且仅由self-Attenion和Feed Forward Neural Network组成。一个基于Transformer的可训练的神经网络可以通过堆叠Transformer的形式进行搭建。
