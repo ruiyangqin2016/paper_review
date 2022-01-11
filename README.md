@@ -76,6 +76,7 @@
     - 2014:
       - **DenseNet**: Implementing efficient convnet descriptor pyramids [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/CV/2014/DenseNet.md)]
       - **VggNet**: Very Deep Convolutional Networks for Large-Scale Image Recognition [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/CV/2014/VGGnet.md)]
+      - **GAN**: Generative Adversarial Nets [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/CV/2014/GAN.md)]
     - 2015:
       - **GoogleNet**: Going Deeper with Convolutions [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/CV/2015/googleNet.md)]
     - 2016:
