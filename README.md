@@ -3,6 +3,7 @@
 2. [UNet-family](https://github.com/ShawnBIT/UNet-family)
 3. [CV papers collection](https://painterdrown.github.io/cv/)
 4. [Connected Papers](https://www.connectedpapers.com/)
+5. [李沐读论文](https://github.com/mli/paper-reading)
 
 ## Paper lists
 ### 0. Menu
