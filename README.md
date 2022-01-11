@@ -2,6 +2,7 @@
 1. [Papers with code](https://paperswithcode.com/)
 2. [UNet-family](https://github.com/ShawnBIT/UNet-family)
 3. [CV papers collection](https://painterdrown.github.io/cv/)
+4. [Connected Papers](https://www.connectedpapers.com/)
 
 ## Paper lists
 ### 0. Menu
@@ -17,6 +18,9 @@
   - 1.2 Papers by year
     - 2012
       - **DNN**: Deep Neural Networks Segment Neuronal Membranes [[Paper](https://people.idsia.ch/~juergen/nips2012.pdf)]
+      - **ImageNet**: Classification with Deep Convolutional Neural Networks [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/2012/imageNet.md)]
+    - 2014
+      - **Going** deeper with convolutions: [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/2014/1409_4842.md)]
     - 2015
       - **FCN**: Fully Convolutional Networks for Semantic Segmentation [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/2015/FCN.md)]
       - **U-Net**: Convolutional Networks for Biomedical Image Segmentation (MICCIA) [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/image_segmentation/UNet.md)]
@@ -61,6 +65,7 @@
       - **Seq2Seq**: Convolutional Sequence to Sequence Learning [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/nlp/2017/seq2seq.md)]
     - 2019:
       - **BERT**: Pre-training of Deep Bidirectional Transformers for Language Understanding [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/nlp/2019/bert.md)]
+      - **RoBERTa**: A Robustly Optimized BERT Pretraining Approach [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/nlp/2019/RoBERTa.md)]
 
 ### 3. CV 
   - 3.0 [menu](https://github.com/ruiyangqin2016/paper_review#0-menu)
