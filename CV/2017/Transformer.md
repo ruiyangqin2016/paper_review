@@ -2,7 +2,7 @@
 
 Paper: [Click to view](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) <br/>
 Code: https://github.com/tensorflow/tensor2tensor <br/>
-Blog: https://zhuanlan.zhihu.com/p/48508221
+Blog: https://zhuanlan.zhihu.com/p/48508221 <br/>
 李沐推荐：[对Attention在Transformer里面作用的研究](https://arxiv.org/pdf/2103.03404.pdf)
 
 ## 1. Abstract
