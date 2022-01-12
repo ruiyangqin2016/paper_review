@@ -53,20 +53,20 @@
   - 2.1 Study notes
   - 2.2 Papers by year
     - 1997:
-      - **LSTM**: Long Short-term Memory [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/nlp/1997/lstm.md)]
+      - **LSTM**: Long Short-term Memory [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/papers/2_NLP/1997/lstm.md)]
     - 2014:
-      - **GRU**: Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/nlp/2014/GRU.md)]
-      - **Gated Recurrent**: Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/nlp/2014/1412_3555.md)]
+      - **GRU**: Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/papers/2_NLP/2014/GRU.md)]
+      - **Gated Recurrent**: Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/papers/2_NLP/2014/1412_3555.md)]
     - 2015:
-      - **Memory Net**: End-To-End Memory Networks [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/nlp/2015/memoryNet.md)]
+      - **Memory Net**: End-To-End Memory Networks [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/papers/2_NLP/2015/memoryNet.md)]
     - 2016:
-      - **Additive Attention**: Neural Machine Translation by Jointly Learning to Align and Translate [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/nlp/2016/1409_0473.md)]
-      - **ByteNet**: Neural Machine Translation in Linear Time [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/nlp/2016/byteNet.md)]
+      - **Additive Attention**: Neural Machine Translation by Jointly Learning to Align and Translate [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/papers/2_NLP/2016/1409_0473.md)]
+      - **ByteNet**: Neural Machine Translation in Linear Time [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/papers/2_NLP/2016/byteNet.md)]
     - 2017:
-      - **Seq2Seq**: Convolutional Sequence to Sequence Learning [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/nlp/2017/seq2seq.md)]
+      - **Seq2Seq**: Convolutional Sequence to Sequence Learning [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/papers/2_NLP/2017/seq2seq.md)]
     - 2019:
-      - **BERT**: Pre-training of Deep Bidirectional Transformers for Language Understanding [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/nlp/2019/bert.md)]
-      - **RoBERTa**: A Robustly Optimized BERT Pretraining Approach [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/nlp/2019/RoBERTa.md)]
+      - **BERT**: Pre-training of Deep Bidirectional Transformers for Language Understanding [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/papers/2_NLP/2019/bert.md)]
+      - **RoBERTa**: A Robustly Optimized BERT Pretraining Approach [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/papers/2_NLP/2019/RoBERTa.md)]
 
 ### 3. CV 
   - 3.0 [menu](https://github.com/ruiyangqin2016/paper_review#0-menu)
