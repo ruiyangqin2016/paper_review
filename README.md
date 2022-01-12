@@ -4,6 +4,7 @@
   - [2. NLP](https://github.com/ruiyangqin2016/paper_review#2-nlp)
   - [3. CV](https://github.com/ruiyangqin2016/paper_review#3-cv)
   - [4. Supplements](https://github.com/ruiyangqin2016/paper_review#4-supplements)
+  - [有用的网站](https://github.com/ruiyangqin2016/paper_review/blob/main/README.md#good-websites)
 ### 1. Medical Image 
   - 1.0 [menu](https://github.com/ruiyangqin2016/paper_review#0-menu)
   - 1.1 Study notes
