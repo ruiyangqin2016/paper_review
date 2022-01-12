@@ -58,6 +58,8 @@
       - **ByteNet**: Neural Machine Translation in Linear Time [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/papers/2_NLP/2016/byteNet.md)]
     - 2017:
       - **Seq2Seq**: Convolutional Sequence to Sequence Learning [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/papers/2_NLP/2017/seq2seq.md)]
+    - 2018:
+      - **ELMo**: Deep contextualized word representations [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/papers/2_NLP/2018/ELMo.md)]
     - 2019:
       - **BERT**: Pre-training of Deep Bidirectional Transformers for Language Understanding [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/papers/2_NLP/2019/bert.md)]
       - **RoBERTa**: A Robustly Optimized BERT Pretraining Approach [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/papers/2_NLP/2019/RoBERTa.md)]
