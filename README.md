@@ -95,13 +95,13 @@
   - 4.1 Study notes
   - 4.1 Papers by year
     - 2001:
-      - **Dependency**: Learn dependencies between distant positions [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/supplements/2001/dependencies.md)]
+      - **Dependency**: Learn dependencies between distant positions [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/papers/4_Supplements/2001/dependencies.md)]
     - 2015:
-      - **BatchNorm**: Accelerating Deep Network Training by Reducing Internal Covariate Shift [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/supplements/2015/batchNorm.md)]
+      - **BatchNorm**: Accelerating Deep Network Training by Reducing Internal Covariate Shift [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/papers/4_Supplements/2015/batchNorm.md)]
     - 2016:
-      - **LayerNorm**: Layer Normalization [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/supplements/2016/layerNorm.md)]
+      - **LayerNorm**: Layer Normalization [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/papers/4_Supplements/2016/layerNorm.md)]
     - 2017:
-      - **InsNorm**: The Missing Ingredient for Fast Stylization [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/supplements/2017/instNorm.md)]
+      - **InsNorm**: The Missing Ingredient for Fast Stylization [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/papers/4_Supplements/2017/instNorm.md)]
 
 ## Pending
 1. **YOLO**: [note](https://github.com/ruiyangqin2016/paper_review/blob/main/CNN/YOLO.md)
