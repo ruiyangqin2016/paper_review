@@ -1,10 +1,3 @@
-## Good websites
-1. [Papers with code](https://paperswithcode.com/)
-2. [UNet-family](https://github.com/ShawnBIT/UNet-family)
-3. [CV papers collection](https://painterdrown.github.io/cv/)
-4. [Connected Papers](https://www.connectedpapers.com/)
-5. [李沐读论文](https://github.com/mli/paper-reading)
-
 ## Paper lists
 ### 0. Menu
   - [1. Medical Image](https://github.com/ruiyangqin2016/paper_review#1-medical-image)
@@ -102,6 +95,13 @@
       - **LayerNorm**: Layer Normalization [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/papers/4_Supplements/2016/layerNorm.md)]
     - 2017:
       - **InsNorm**: The Missing Ingredient for Fast Stylization [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/papers/4_Supplements/2017/instNorm.md)]
+
+### Good websites
+1. [Papers with code](https://paperswithcode.com/)
+2. [UNet-family](https://github.com/ShawnBIT/UNet-family)
+3. [CV papers collection](https://painterdrown.github.io/cv/)
+4. [Connected Papers](https://www.connectedpapers.com/)
+5. [李沐读论文](https://github.com/mli/paper-reading)
 
 ## Pending
 1. **YOLO**: [note](https://github.com/ruiyangqin2016/paper_review/blob/main/CNN/YOLO.md)
