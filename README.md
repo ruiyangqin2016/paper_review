@@ -7,10 +7,10 @@
 
 ## Paper lists
 ### 0. Menu
-  - [Medical Image](https://github.com/ruiyangqin2016/paper_review#1-medical-image)
-  - [NLP](https://github.com/ruiyangqin2016/paper_review#2-nlp)
-  - [CV](https://github.com/ruiyangqin2016/paper_review#3-cv)
-  - [Supplements](https://github.com/ruiyangqin2016/paper_review#4-supplements)
+  - [1. Medical Image](https://github.com/ruiyangqin2016/paper_review#1-medical-image)
+  - [2. NLP](https://github.com/ruiyangqin2016/paper_review#2-nlp)
+  - [3. CV](https://github.com/ruiyangqin2016/paper_review#3-cv)
+  - [4. Supplements](https://github.com/ruiyangqin2016/paper_review#4-supplements)
 ### 1. Medical Image 
   - 1.0 [menu](https://github.com/ruiyangqin2016/paper_review#0-menu)
   - 1.1 Study notes
