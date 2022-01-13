@@ -107,6 +107,14 @@
   - 5.1 Study notes
     - [知识脉络整理](https://github.com/ruiyangqin2016/paper_review/blob/main/Study_notes/5_FSL/tree.md)
   - 5.2 Papers by year
+    - 2019:
+      - **EGNN**: Edge-Labeling Graph Neural Network for Few-shot Learning [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/papers/5_FSL/2019/EGNN.md)]
+      - **SimpleShot**: Revisiting Nearest-Neighbor Classification for Few-Shot Learning [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/papers/5_FSL/2019/simpleshot.md)]
+    - 2020:
+      - **Charting the Right Manifold**: Manifold Mixup for Few-shot Learning [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/papers/5_FSL/2020/ChartRM.md)]
+    - 2021:
+      - **Generalizing from a Few Examples**: A Survey on Few-shot Learning [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/papers/5_FSL/2021/survey_1.md)]
+      - **The Power** of Scale for Parameter-Efficient Prompt Tuning: [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/papers/5_FSL/2021/para-effic.md)]
   - 5.3 Websites
     - [小样本学习论文集锦](https://zhuanlan.zhihu.com/p/437414450)
     - [优质论文](https://zhuanlan.zhihu.com/p/456415980)
