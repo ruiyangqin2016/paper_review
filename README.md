@@ -87,6 +87,8 @@
       - **EfficientNet-v2**: Smaller Models and Faster Training [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/papers/3_CV/2021/EfficientNet_v2.md)]
       - **VIT transformer**: An Image is Worth 16x16 Words [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/papers/3_CV/2021/vit.md)]
       - **MAE**: Masked Autoencoders Are Scalable Vision Learners [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/papers/3_CV/2021/MAE.md)]
+    - 2022:
+      - **ConvNet**: A ConvNet for the 2020s [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/papers/3_CV/2022/ConvNet.md)]
 ### 4. Supplements 
   - 4.0 [menu](https://github.com/ruiyangqin2016/paper_review#0-menu)
   - 4.1 Study notes
