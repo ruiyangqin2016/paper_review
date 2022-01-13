@@ -89,7 +89,7 @@
 ### 4. Supplements 
   - 4.0 [menu](https://github.com/ruiyangqin2016/paper_review#0-menu)
   - 4.1 Study notes
-  - 4.1 Papers by year
+  - 4.2 Papers by year
     - 2001:
       - **Dependency**: Learn dependencies between distant positions [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/papers/4_Supplements/2001/dependencies.md)]
     - 2015:
@@ -98,6 +98,14 @@
       - **LayerNorm**: Layer Normalization [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/papers/4_Supplements/2016/layerNorm.md)]
     - 2017:
       - **InsNorm**: The Missing Ingredient for Fast Stylization [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/papers/4_Supplements/2017/instNorm.md)]
+
+### 5. Few-Shot Learning
+  - 5.0 [menu](https://github.com/ruiyangqin2016/paper_review#0-menu)
+  - 5.1 Study notes
+  - 5.2 Papers by year
+  - 5.3 Websites
+    - [小样本学习论文集锦](https://zhuanlan.zhihu.com/p/437414450)
+    - [优质论文](https://zhuanlan.zhihu.com/p/456415980)
 
 ### Good websites
   - [menu](https://github.com/ruiyangqin2016/paper_review#0-menu)
