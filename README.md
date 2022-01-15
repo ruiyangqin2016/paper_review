@@ -126,7 +126,7 @@
   - 6.1 Study notes
   - 6.2 Papers by year
     - 2014:
-      - **A survey** on feature selection methods: [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/papers/FS/2014/survey_1.md)]
+      - **A survey** on feature selection methods: [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/papers/6_FS/2014/survey_1.md)]
 
 ### Good websites
   - [menu](https://github.com/ruiyangqin2016/paper_review#0-menu)
