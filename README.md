@@ -5,6 +5,7 @@
   - [3. CV](https://github.com/ruiyangqin2016/paper_review#3-cv)
   - [4. Supplements](https://github.com/ruiyangqin2016/paper_review#4-supplements)
   - [5. Few-Shot learning](https://github.com/ruiyangqin2016/paper_review#5-few-shot-learning)
+  - [6. Feature Selection](https://github.com/ruiyangqin2016/paper_review#6-feature-selection)
   - [Marked Web](https://github.com/ruiyangqin2016/paper_review#good-websites)
 ### 1. Medical Image 
   - 1.0 [menu](https://github.com/ruiyangqin2016/paper_review#0-menu)
