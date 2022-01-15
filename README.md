@@ -12,6 +12,8 @@
   - 1.1 Study notes
     - [Note1](https://github.com/ruiyangqin2016/paper_review/blob/main/Study_notes/main.md) <br/>
     - [Pending list](https://github.com/ruiyangqin2016/paper_review/blob/main/Study_notes/Pending_list.md)
+    - 学习框架：
+      - https://monai.io/
   - 1.2 Papers by year
     - 2012
       - **DNN**: Deep Neural Networks Segment Neuronal Membranes [[Paper](https://people.idsia.ch/~juergen/nips2012.pdf)]
