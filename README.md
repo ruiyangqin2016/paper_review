@@ -120,6 +120,13 @@
     - [小样本学习论文集锦](https://zhuanlan.zhihu.com/p/437414450)
     - [优质论文](https://zhuanlan.zhihu.com/p/456415980)
 
+### 6. Feature Selection
+  - 6.0 [menu](https://github.com/ruiyangqin2016/paper_review#0-menu)
+  - 6.1 Study notes
+  - 6.2 Papers by year
+    - 2014:
+      - **A survey** on feature selection methods: [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/papers/FS/2014/survey_1.md)]
+
 ### Good websites
   - [menu](https://github.com/ruiyangqin2016/paper_review#0-menu)
   - [Papers with code](https://paperswithcode.com/)
