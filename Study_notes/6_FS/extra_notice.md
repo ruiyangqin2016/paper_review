@@ -1,5 +1,6 @@
 ## 1. 特征提取 & 特征选择
-[参考网站](https://zhuanlan.zhihu.com/p/34450286)
+[参考网站1](https://zhuanlan.zhihu.com/p/34450286)
+[参考网站2](https://www.zhihu.com/question/19774445/answer/1968227962)
   - 定义：
     - 特征提取(Feature Extraction): Creating a subset of new features by combinations of the exsiting features.
     - 特征选择(Feature Selection): Choosing a subset of all the features.
