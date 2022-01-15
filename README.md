@@ -127,6 +127,7 @@
   - 6.0 [menu](https://github.com/ruiyangqin2016/paper_review#0-menu)
   - 6.1 Study notes
     - [知识脉络整理](https://github.com/ruiyangqin2016/paper_review/blob/main/Study_notes/6_FS/tree.md)
+    - [相关信息](https://github.com/ruiyangqin2016/paper_review/blob/main/Study_notes/6_FS/extra_notice.md)
   - 6.2 Papers by year
     - 2014:
       - **A survey** on feature selection methods: [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/papers/6_FS/2014/survey_1.md)]
