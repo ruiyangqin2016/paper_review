@@ -4,6 +4,7 @@
 1. Using novel NLP models to analyze health-related data. 
 2. Modify NPL models and design new models for health informtics areas specifically.
 3. Develop tools for biomedical informatics area.
+4. Information retrieval.
 
 ## Papers
 1. [COVID-19 SignSym](https://arxiv.org/pdf/2007.10286.pdf): *a fast adaptation of a general clinical NLP tool to identify and normalize COVID-19 signs andsymptoms to OMOP common data model* <br/> 1.1 **This is about developing a tool for biomedical informatics area**
