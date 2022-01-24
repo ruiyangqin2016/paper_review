@@ -1,5 +1,10 @@
 # Medical Informatics
 
+## My past work
+1. HCI and NLP
+2. Choose and modify models for specific problems
+3. Understand the structure of each exisiting models and modify them to have the best perform in different tasks
+
 ## My idea
 1. Using novel NLP models to analyze health-related data. 
 2. Modify NPL models and design new models for health informtics areas specifically.
@@ -8,6 +13,7 @@
 5. Large-scaled data process
 6. Help with clinical practice via data analysis result
 7. chronic disease management, particularly diabetes & cardiovascular disorders
+8. Study the existing medical assistant system and design better systems.
 
 ## Papers
 1. [COVID-19 SignSym](https://arxiv.org/pdf/2007.10286.pdf): *a fast adaptation of a general clinical NLP tool to identify and normalize COVID-19 signs andsymptoms to OMOP common data model* <br/> 1.1 **This is about developing a tool for biomedical informatics area**
