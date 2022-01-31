@@ -139,6 +139,7 @@
   - [CV papers collection](https://painterdrown.github.io/cv/)
   - [Connected Papers](https://www.connectedpapers.com/)
   - [李沐读论文](https://github.com/mli/paper-reading)
+  - [Inception](https://zhuanlan.zhihu.com/p/30756181)
 
 ## Pending
 1. **YOLO**: [note](https://github.com/ruiyangqin2016/paper_review/blob/main/CNN/YOLO.md)
