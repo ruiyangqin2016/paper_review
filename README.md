@@ -18,6 +18,8 @@
     - 2012
       - **DNN**: Deep Neural Networks Segment Neuronal Membranes [[Paper](https://people.idsia.ch/~juergen/nips2012.pdf)]
       - **ImageNet**: Classification with Deep Convolutional Neural Networks [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/papers/1_MedSeg/2012/imageNet.md)]
+    - 2013
+      - **Network** in Network: [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/papers/1_MedSeg/2013/Net_in_net.md)]
     - 2014
       - **Going** deeper with convolutions: [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/papers/1_MedSeg/2014/1409_4842.md)]
     - 2015
