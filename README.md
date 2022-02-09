@@ -140,7 +140,7 @@
   - 7.1 Study notes
   - 7.2 Papers by year
     - 2006:
-      - **Domain Adaptation** and Image Classification via Deep Conditional Adaptation Network[[note](https://github.com/ruiyangqin2016/paper_review/blob/main/papers/7_DoAd/2006/survey1.md)]
+      - **Domain Adaptation** and Image Classification via Deep Conditional Adaptation Network[[note](https://github.com/ruiyangqin2016/paper_review/blob/main/papers/7_DoAd/2020/survey1.md)]
 
 ### Good websites
   - [menu](https://github.com/ruiyangqin2016/paper_review#0-menu)
