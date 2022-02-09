@@ -134,6 +134,13 @@
     - 2014:
       - **A survey** on feature selection methods: [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/papers/6_FS/2014/survey_1.md)]
 
+### 7. Domain Adaptation
+  - 7.0 menu
+  - 7.1 Study notes
+  - 7.2 Papers by year
+    - 2006:
+      - **Domain Adaptation** and Image Classification via Deep Conditional Adaptation Network[[note](https://github.com/ruiyangqin2016/paper_review/blob/main/papers/7_DoAd/2006/survey1.md)]
+
 ### Good websites
   - [menu](https://github.com/ruiyangqin2016/paper_review#0-menu)
   - [Papers with code](https://paperswithcode.com/)
