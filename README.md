@@ -6,6 +6,7 @@
   - [4. Supplements](https://github.com/ruiyangqin2016/paper_review#4-supplements)
   - [5. Few-Shot learning](https://github.com/ruiyangqin2016/paper_review#5-few-shot-learning)
   - [6. Feature Selection](https://github.com/ruiyangqin2016/paper_review#6-feature-selection)
+  - [7. Domain Adaption](https://github.com/ruiyangqin2016/paper_review#7-domain-adaptation)
   - [Marked Web](https://github.com/ruiyangqin2016/paper_review#good-websites)
 ### 1. Medical Image 
   - 1.0 [menu](https://github.com/ruiyangqin2016/paper_review#0-menu)
@@ -135,7 +136,7 @@
       - **A survey** on feature selection methods: [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/papers/6_FS/2014/survey_1.md)]
 
 ### 7. Domain Adaptation
-  - 7.0 menu
+  - 7.0 [menu](https://github.com/ruiyangqin2016/paper_review#0-menu)
   - 7.1 Study notes
   - 7.2 Papers by year
     - 2006:
