@@ -144,6 +144,13 @@
     - 2015:
       - **Unsupervised** Domain Adaptation by Backpropagation[[note](https://github.com/ruiyangqin2016/paper_review/blob/main/papers/7_DoAd/2015/UDA_Backpropagation.md)]
 
+### 8. Contrastive Learning
+  - 8.0 [menu](https://github.com/ruiyangqin2016/paper_review#0-menu)
+  - 8.1 Study notes
+  - 8.2 Papers by year
+    - 2020:
+      - **A Simple** Framework for Contrastive Learning of Visual Representations: [[note](https://github.com/ruiyangqin2016/paper_review/blob/main/papers/contrast_learn/8_contrast_learn/2020/simple_framework.md)]
+
 ### Good websites
   - [menu](https://github.com/ruiyangqin2016/paper_review#0-menu)
   - [Papers with code](https://paperswithcode.com/)
