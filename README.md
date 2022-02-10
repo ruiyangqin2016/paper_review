@@ -7,6 +7,7 @@
   - [5. Few-Shot learning](https://github.com/ruiyangqin2016/paper_review#5-few-shot-learning)
   - [6. Feature Selection](https://github.com/ruiyangqin2016/paper_review#6-feature-selection)
   - [7. Domain Adaption](https://github.com/ruiyangqin2016/paper_review#7-domain-adaptation)
+  - [8. Contrastive Learning](https://github.com/ruiyangqin2016/paper_review#8-contrastive-learning)
   - [Marked Web](https://github.com/ruiyangqin2016/paper_review#good-websites)
 ### 1. Medical Image 
   - 1.0 [menu](https://github.com/ruiyangqin2016/paper_review#0-menu)
