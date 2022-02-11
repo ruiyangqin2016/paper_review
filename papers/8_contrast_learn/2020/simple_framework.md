@@ -11,3 +11,7 @@ SimCLR这个框架学习representations，通过maximizing agreement,在相同�
   - Random Gaussian blur <br/>
  （Random crop + color distortion的组合一般可以取得很好的效果）
 - Neural network base encode f(·):从x˜i 和 x˜j中提取向量。f(·)可以是很多框架，在这里作者选用了ResNet。hi = f(x˜i) = ResNet(x˜i) where hi ∈ R d is the output after the average pooling layer.
+- Neural Network projection head **g(·)**：<br/>
+  1. Representation -> g(·) -> |--Contrastive Loss--|
+  2. g(·) = MLP(Multi-Layer Perception) + a hidden layer
+  3. z<sub>i</sub> = g(h<sub>i</sub>) = W<sup>(2)</sup>σ(W<sup>(1)</sup>h<sub>i</sub>)
