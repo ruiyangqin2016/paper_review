@@ -14,4 +14,7 @@ SimCLR这个框架学习representations，通过maximizing agreement,在相同�
 - Neural Network projection head **g(·)**：<br/>
   1. Representation -> g(·) -> |--Contrastive Loss--|
   2. g(·) = MLP(Multi-Layer Perception) + a hidden layer
-  3. z<sub>i</sub> = g(h<sub>i</sub>) = W<sup>(2)</sup>σ(W<sup>(1)</sup>h<sub>i</sub>)
+  3. z<sub>i</sub> = g(h<sub>i</sub>) = W<sup>(2)</sup>σ(W<sup>(1)</sup>h<sub>i</sub>) <br/>
+  （σ is a ReLU nonlinearity）
+- Contrastive loss function
+  
