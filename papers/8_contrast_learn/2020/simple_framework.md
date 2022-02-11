@@ -17,3 +17,6 @@ SimCLR这个框架学习representations，通过maximizing agreement,在相同�
   3. z<sub>i</sub> = g(h<sub>i</sub>) = W<sup>(2)</sup>σ(W<sup>(1)</sup>h<sub>i</sub>) <br/>
   （σ is a ReLU nonlinearity）
 - Contrastive loss function: 计算z<sub>i</sub>到z<sub>j</sub>的距离。（Contrastive loss takes the output of the network for a positive example and calculates its distance to an example of the same class and contrasts that with the distance to negative examples. ）
+
+## Notes
+### 
